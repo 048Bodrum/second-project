@@ -14,11 +14,13 @@
 touch index.html (англ. touch, «коснуться») — создай файл index.html в текущей папке;
 touch index.html style.css script.js — если нужно создать сразу несколько файлов, можно напечатать их имена в одну строку через пробел;
 mkdir second-project (от англ. make directory, «создать директорию») — создай папку с именем second-project в текущей папке.
+
 2.Копирование и перемещение
 cp file.txt ~/my-dir (от англ. copy, «копировать») — скопируй файл в другое место;
 mv file.txt ~/my-dir (от англ. move, «переместить») — перемести файл или папку в другое место.
 Чтение
 cat file.txt (от англ. concatenate and print, «объединить и распечатать») — распечатай содержимое текстового файла file.txt.
+
 3.Удаление
 rm about.html (от англ. remove, «удалить») — удали файл about.html;
 rmdir images (от англ. remove directory, «удалить директорию») — удали папку images;
